@@ -33,7 +33,8 @@ Durante o bootcamp, serão utilizados tópicos e ferramentas como:
 
 ## Estrutura do Repositório
 A organização das pastas segue a estrutura abaixo:
-bootcamp-engenharia-dados
+
+"""
 .
 ├── sprint_1                # Exercícios realizados durante a sprint 1.
 ├── sprint_2                # Exercícios realizados durante a sprint 2.
@@ -46,3 +47,4 @@ bootcamp-engenharia-dados
     ├── silver
     ├── gold
 └── README.md
+"""

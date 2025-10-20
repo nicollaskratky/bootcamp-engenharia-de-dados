@@ -34,7 +34,7 @@ Durante o bootcamp, serão utilizados tópicos e ferramentas como:
 ## Estrutura do Repositório
 A organização das pastas segue a estrutura abaixo:
 
-'''
+```
 .
 ├── sprint_1                # Exercícios realizados durante a sprint 1.
 ├── sprint_2                # Exercícios realizados durante a sprint 2.
@@ -47,4 +47,4 @@ A organização das pastas segue a estrutura abaixo:
     ├── silver
     ├── gold
 └── README.md
-'''
+```
